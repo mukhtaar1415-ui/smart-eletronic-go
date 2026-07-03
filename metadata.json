@@ -1,0 +1,6 @@
+{
+  "name": "Smart Electronic",
+  "description": "A premium electronics technology shop with interactive catalogs, functional shopping cart, responsive categories, and a sleek design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
